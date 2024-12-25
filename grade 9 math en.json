@@ -1,0 +1,62 @@
+[
+    {
+        "Chapter": "Lines and Circles",
+        "Description": "Understanding the properties and equations of lines and circles in geometry."
+    },
+    {
+        "Chapter": "Proportion",
+        "Description": "The concept of ratios and proportions, their applications, and solving proportional problems."
+    },
+    {
+        "Chapter": "Inscribed Quadrilaterals",
+        "Description": "Properties of quadrilaterals inscribed in a circle, including angle relationships and area."
+    },
+    {
+        "Chapter": "Lines in a Coordinate System",
+        "Description": "Analyzing the equations of lines in the Cartesian plane and their relationships."
+    },
+    {
+        "Chapter": "Thales Property",
+        "Description": "Exploring Thales' theorem and its applications in geometry."
+    },
+    {
+        "Chapter": "Systems of Equations",
+        "Description": "Solving linear systems of equations using substitution, elimination, and graphical methods."
+    },
+    {
+        "Chapter": "Systems of Inequalities",
+        "Description": "Understanding and solving systems of linear inequalities graphically and algebraically."
+    },
+    {
+        "Chapter": "Similar Triangles",
+        "Description": "Understanding the properties of similar triangles and their applications in problem-solving."
+    },
+    {
+        "Chapter": "The Real Numbers",
+        "Description": "Exploring the real number system, including rational and irrational numbers."
+    },
+    {
+        "Chapter": "Translation and Vectors",
+        "Description": "Understanding translations in geometry and the properties of vectors."
+    },
+    {
+        "Chapter": "Algebraic Expressions",
+        "Description": "Working with algebraic expressions, their simplifications, and applications."
+    },
+    {
+        "Chapter": "Trigonometric Relations",
+        "Description": "Studying trigonometric functions and their relationships in triangles and circles."
+    },
+    {
+        "Chapter": "Analytic Geometry",
+        "Description": "Applying coordinate geometry to solve problems involving lines, circles, and parabolas."
+    },
+    {
+        "Chapter": "Statistical Surveys",
+        "Description": "Understanding statistical methods and analyzing data from surveys."
+    },
+    {
+        "Chapter": "Solids",
+        "Description": "Exploring the properties of 3D geometric solids, including volume and surface area."
+    }
+]
